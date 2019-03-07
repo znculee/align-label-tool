@@ -9,13 +9,14 @@ Designed and implented by Charles Xin-Tong Li
 Label alignments for source file and target file.
 
 ```shell
-python3 alt.py source target alignment
+chmod +x alt.py
+./alt.py source target alignment
 ```
 
 View alignments for source file and target file with no modification.
 
 ```shell
-python3 alt.py source target alignment -v
+./alt.py -v source target alignment
 ```
 
 **Key bindings**
