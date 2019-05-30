@@ -1,4 +1,4 @@
-# align_label_tool
+# word alignment labeling tool
 
 A commend line tool for labeling alignments of parallel sentences.
 
