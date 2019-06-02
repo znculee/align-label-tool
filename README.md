@@ -4,6 +4,8 @@ A commend line tool for labeling alignments of parallel sentences.
 
 Designed and implented by Charles Xin-Tong Li
 
+![screenshot](screenshot.png)
+
 ## Usage
 
 Label alignments for source file and target file.
